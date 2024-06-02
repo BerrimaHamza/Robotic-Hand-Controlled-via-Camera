@@ -8,9 +8,7 @@
 - [Software Requirements](#software-requirements)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
@@ -70,5 +68,10 @@ This project involves the creation of a robotic hand controlled via a camera usi
     ```
 2. The script will process the camera input and send commands to the STM32 microcontroller to control the robotic hand.
 
-## Project Structure
+## Contributing
 
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to contribute to this project.
+
+## Acknowledgments
+
+- Special thanks to [Hamza Berrima], [Houssem dakhli], [Najeh Ghanmi], [Amenallah Aboulkacem] for the initial development of this project.
