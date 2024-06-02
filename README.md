@@ -8,7 +8,6 @@
 - [Software Requirements](#software-requirements)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
@@ -67,10 +66,6 @@ This project involves the creation of a robotic hand controlled via a camera usi
     python camera_control.py
     ```
 2. The script will process the camera input and send commands to the STM32 microcontroller to control the robotic hand.
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to contribute to this project.
 
 ## Acknowledgments
 
