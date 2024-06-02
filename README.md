@@ -63,7 +63,7 @@ This project involves the creation of a robotic hand controlled via a camera usi
 
 1. Run the Python script to start the camera and capture movements:
     ```sh
-    python camera_control.py
+    python RoboticHand.py
     ```
 2. The script will process the camera input and send commands to the STM32 microcontroller to control the robotic hand.
 
