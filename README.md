@@ -69,4 +69,4 @@ This project involves the creation of a robotic hand controlled via a camera usi
 
 ## Acknowledgments
 
-- Special thanks to [Hamza Berrima], [Houssem dakhli], [Najeh Ghanmi], [Amenallah Aboulkacem] for the initial development of this project.
+- Special thanks to Hamza Berrima, Houssem dakhli, Najeh Ghanmi, Amenallah Aboulkacem for the initial development of this project.
