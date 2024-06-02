@@ -33,7 +33,7 @@ This project involves the creation of a robotic hand controlled via a camera usi
 
 - STM32CubeIDE (or equivalent for STM32 development)
 - Python 3.11 or newer
-- OpenCV library for Python
+- OpenCV et mediapipe library for Python
 - Fusion 360 for 3D design
 
 ## Setup and Installation
